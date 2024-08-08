@@ -1,0 +1,14 @@
+E:\C#\alaa\validRange\validRange\bin\Debug\net8.0\validRange.exe
+E:\C#\alaa\validRange\validRange\bin\Debug\net8.0\validRange.deps.json
+E:\C#\alaa\validRange\validRange\bin\Debug\net8.0\validRange.runtimeconfig.json
+E:\C#\alaa\validRange\validRange\bin\Debug\net8.0\validRange.dll
+E:\C#\alaa\validRange\validRange\bin\Debug\net8.0\validRange.pdb
+E:\C#\alaa\validRange\validRange\obj\Debug\net8.0\validRange.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\alaa\validRange\validRange\obj\Debug\net8.0\validRange.AssemblyInfoInputs.cache
+E:\C#\alaa\validRange\validRange\obj\Debug\net8.0\validRange.AssemblyInfo.cs
+E:\C#\alaa\validRange\validRange\obj\Debug\net8.0\validRange.csproj.CoreCompileInputs.cache
+E:\C#\alaa\validRange\validRange\obj\Debug\net8.0\validRange.dll
+E:\C#\alaa\validRange\validRange\obj\Debug\net8.0\refint\validRange.dll
+E:\C#\alaa\validRange\validRange\obj\Debug\net8.0\validRange.pdb
+E:\C#\alaa\validRange\validRange\obj\Debug\net8.0\validRange.genruntimeconfig.cache
+E:\C#\alaa\validRange\validRange\obj\Debug\net8.0\ref\validRange.dll
